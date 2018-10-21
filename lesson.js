@@ -1,7 +1,7 @@
-var nam;
+var nam = "Mahmud";
 
 function printName (){
-  console.log(name)
+  console.log(nam);
 }
 
 printName();
