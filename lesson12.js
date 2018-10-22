@@ -20,5 +20,5 @@ var selectName = function() {
     var currentName = "Betty";
     return currentName
 }
-var filteredNames = nameFilter(currentName)
+var filteredNames = nameFilter("Betty")
 console.log(filteredNames)
